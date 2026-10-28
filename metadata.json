@@ -1,0 +1,6 @@
+{
+  "name": "AuraSense — AI Skin Diagnostics & 360° Virtual Try-On",
+  "description": "Adaptive AI shopping assistant featuring real-time skin AI diagnostics, interactive 360° virtual try-on, multi-lingual voice context input, and personalized skincare routine matching.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
